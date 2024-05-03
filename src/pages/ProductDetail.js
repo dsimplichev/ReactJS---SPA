@@ -8,6 +8,7 @@ function ProductDetailPage() {
       <>
       <h1>Product Details</h1>
       <p>{params.productId}</p>
+      
       </>
    )
 }
